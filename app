@@ -1,1 +1,1 @@
-my application
+my application is on windows
